@@ -33,6 +33,9 @@ __pycache__/
 # macOS specific files
 .DS_Store
 
+# Local environment settings
+.env
+
 # Backup files
 *.bak
 *~
