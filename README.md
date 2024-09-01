@@ -1,6 +1,6 @@
 # DineDine Project
 
-Welcome to **DineDine**, an application designed to help users find restaurants based on their dietary preferences. This project was developed by Anton, Ismael, and [Your Name]. It's built using Django and leverages geographic location services, restaurant information, and dietary filtering.
+Welcome to **DineDine**, an application designed to help users find restaurants based on their dietary preferences. This project was developed by Anton, Ismael. It's built using Django and leverages geographic location services, restaurant information, and dietary filtering.
 
 ## Project Setup
 
